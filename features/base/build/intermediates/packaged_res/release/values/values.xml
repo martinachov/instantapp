@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">Hello Features</string>
+    <string name="goodbye_instant_world">Goodbye instant World!</string>
+    <string name="hello_instant_world">Hello instant World!</string>
+    <string name="nothing_to_see">Nothing to see here, press back</string>
+    <string name="title_activity_goodbye">Goodbye Activity</string>
+    <string name="title_activity_hello">Hello Activity</string>
+    <string name="whats_this">Say Goodbye</string>
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

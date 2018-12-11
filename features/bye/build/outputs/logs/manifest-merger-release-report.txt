@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:18:5-48
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:1-43:12
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:20:5-42:19
+activity#com.instantappsamples.feature.bye.GoodbyeActivity
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:22:9-41:20
+	android:label
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:23:13-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello-feature.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:http+data:scheme:https
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:27:13-40:29
+	android:autoVerify
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:28:17-42
+	android:order
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:29:17-34
+action#android.intent.action.VIEW
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:32:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:33:27-73
+data
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:35:17-48
+	android:host
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:37:23-72
+	android:scheme
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:35:23-45
+	android:pathPrefix
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml:38:23-52
+uses-sdk
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/src/main/AndroidManifest.xml

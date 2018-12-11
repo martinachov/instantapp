@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    featureSplit="hello"
+    package="com.instantapps.samples.hellofeature"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:debuggable="true"
+        android:testOnly="true" >
+        <activity
+            android:name="com.instantappsamples.feature.hello.HelloActivity"
+            android:label="@string/title_activity_hello"
+            android:splitName="hello"
+            android:theme="@style/AppTheme" >
+            <intent-filter android:label="@string/app_name" >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="default-url"
+                android:value="https://hello-feature.instantappsample.com/hello" />
+
+            <intent-filter
+                android:autoVerify="true"
+                android:order="2" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="hello-feature.instantappsample.com"
+                    android:pathPrefix="/hello"
+                    android:scheme="https" />
+            </intent-filter>
+            <intent-filter android:order="2" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="hello-feature.instantappsample.com"
+                    android:pathPrefix="/hello"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

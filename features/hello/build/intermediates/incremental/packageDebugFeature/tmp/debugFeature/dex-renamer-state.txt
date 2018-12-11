@@ -1,0 +1,4 @@
+#Tue Dec 11 13:02:22 ART 2018
+base.0=/Users/martin/Tesis/hello-feature-module/features/hello/build/intermediates/transforms/dexMerger/feature/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

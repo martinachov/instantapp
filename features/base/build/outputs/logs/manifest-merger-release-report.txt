@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/d76bdbf52089991516186a2c718c0424/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/bfe25abbcfeaaa22f5399fd1ff61d1ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/c152b0bc645034615321da4d64c20d49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/794458337eb5ca1ea0bf9b90381d1bda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/e492aa2c423b8140024ae82084b7f771/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/597b7efdba5cb472191b8f147d8ec4fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/3fece6c4c6904f4c3a80fc857d0529a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:17:1-30:12
+MERGED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:17:1-50:12
+MERGED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:17:1-59:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+	package
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:18:11-49
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:1-28:12
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:20:22-64
+application
+ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:22:5-26:42
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:24:5-28:19
+MERGED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:28:5-48:19
+MERGED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:28:5-48:19
+MERGED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:28:5-57:19
+MERGED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:28:5-57:19
+	android:supportsRtl
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:26:13-39
+	android:label
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:24:13-45
+	android:allowBackup
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:23:13-39
+	android:theme
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml:25:13-44
+uses-sdk
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/d76bdbf52089991516186a2c718c0424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/d76bdbf52089991516186a2c718c0424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/bfe25abbcfeaaa22f5399fd1ff61d1ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/bfe25abbcfeaaa22f5399fd1ff61d1ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/c152b0bc645034615321da4d64c20d49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/c152b0bc645034615321da4d64c20d49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/794458337eb5ca1ea0bf9b90381d1bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/794458337eb5ca1ea0bf9b90381d1bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/e492aa2c423b8140024ae82084b7f771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/e492aa2c423b8140024ae82084b7f771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/597b7efdba5cb472191b8f147d8ec4fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/597b7efdba5cb472191b8f147d8ec4fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/3fece6c4c6904f4c3a80fc857d0529a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/martin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/3fece6c4c6904f4c3a80fc857d0529a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:20:5-22:41
+MERGED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:24:5-26:41
+MERGED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:24:5-26:41
+MERGED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:24:5-26:41
+MERGED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:24:5-26:41
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/base/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/martin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5df384e9484ce487ce39721cb9b9266b/AndroidManifest.xml:26:13-58
+activity#com.instantappsamples.feature.bye.GoodbyeActivity
+ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:29:9-47:20
+	android:label
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:31:13-59
+	android:splitName
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:30:13-77
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello-feature.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:http+data:scheme:https
+ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:34:13-46:29
+	android:autoVerify
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:35:17-42
+	android:order
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:36:17-34
+action#android.intent.action.VIEW
+ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:37:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:39:27-75
+category#android.intent.category.DEFAULT
+ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:40:27-73
+data
+ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:42:17-48
+	android:scheme
+		ADDED from [:features:bye] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:42:23-45
+activity#com.instantappsamples.feature.hello.HelloActivity
+ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:29:9-56:20
+	android:label
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:31:13-57
+	android:splitName
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:32:13-38
+	android:theme
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:30:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:34:13-38:29
+	android:label
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:34:28-60
+action#android.intent.action.MAIN
+ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:37:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello-feature.instantappsample.com+data:pathPrefix:/hello+data:scheme:http+data:scheme:https
+ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:39:13-51:29
+	android:autoVerify
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:40:17-42
+	android:order
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:41:17-34
+meta-data#default-url
+ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:53:13-55:84
+	android:value
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:55:17-81
+	android:name
+		ADDED from [:features:hello] /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:54:17-43

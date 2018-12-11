@@ -1,0 +1,2 @@
+# Referenced at /Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/hello/build/intermediates/merged_manifests/releaseFeature/processReleaseFeatureManifest/merged/AndroidManifest.xml:29
+-keep class com.instantappsamples.feature.hello.HelloActivity { <init>(...); }

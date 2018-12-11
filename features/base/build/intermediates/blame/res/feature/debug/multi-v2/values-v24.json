@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/martin/Tesis/hello-feature-module/features/base/build/intermediates/incremental/mergeDebugFeatureResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/martin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/d76bdbf52089991516186a2c718c0424/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

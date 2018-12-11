@@ -1,0 +1,4 @@
+#Thu Nov 22 22:45:30 ART 2018
+base.0=/Users/martin/Downloads/android-instant-apps-master/hello-feature-module/features/bye/build/intermediates/transforms/dexMerger/feature/release/0
+path.0=classes.dex
+renamed.0=classes.dex

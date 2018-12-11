@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:5:5-38:19
+activity#com.instantappsamples.feature.bye.GoodbyeActivity
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:7:9-37:20
+	android:label
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:9:13-59
+	android:theme
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:10:13-44
+	android:name
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:8:13-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello-feature.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:https
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:12:13-23:29
+	android:autoVerify
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:13:17-42
+	android:order
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:12:28-45
+action#android.intent.action.VIEW
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:16:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:17-78
+	android:name
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:17:27-75
+data
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:19:17-22:53
+	android:host
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:21:21-70
+	android:scheme
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:20:21-43
+	android:pathPrefix
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:22:21-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello-feature.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:http
+ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:25:13-35:29
+	android:order
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml:25:28-45
+uses-sdk
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		ADDED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
+		INJECTED from /Users/martin/Tesis/hello-feature-module/features/bye/src/main/AndroidManifest.xml
